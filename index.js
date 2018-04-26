@@ -12,3 +12,4 @@ function destructivelyPrependKitten(name){
 function destructivelyRemoveLastKitten(){
   
 }
+
